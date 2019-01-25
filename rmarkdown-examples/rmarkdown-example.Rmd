@@ -2,7 +2,7 @@
 title: "Lab 00"
 subtitle: "RMarkdown and Paths"
 date: "2018-01-24"
-output: html_document
+output: word_document
 ---
 
 ### Overview
@@ -29,6 +29,9 @@ the _lower-right_ corner of _RStudio_.
 
 The course explorer is found here: 
 <https://courses.illinois.edu/schedule/2018/spring/STAT>
+
+
+- [STAT 385: Statistical Programming Methods](https://courses.illinois.edu/schedule/2019/spring/STAT/385)
 
 ##### Making _R_ Code Work
 
